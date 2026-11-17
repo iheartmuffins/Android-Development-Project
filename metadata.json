@@ -1,0 +1,6 @@
+{
+  "name": "VenueOps",
+  "description": "Venue management and booking platform for event space operators and customer bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
